@@ -129,10 +129,10 @@ else
         }
 
 try{
-    Scanner xyi=new Scanner(System.in);
+    Scanner ArifmeticAction=new Scanner(System.in);
         System.out.println("Введите действие: +,-,*,%");
 
-            String Operation = xyi.nextLine();
+            String Operation = ArifmeticAction.nextLine();
             if (Operation.equals("+")) {
                 System.out.println(Variable1 + Variable2);
                 return Variable1 + Variable2;
