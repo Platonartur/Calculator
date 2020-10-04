@@ -1,4 +1,4 @@
-//Калькулятор римских и арабских чисел JAVAMENTOR
+//Калькулятор римских и арабских чисел 
 package com.company;
 
 import java.lang.String;
